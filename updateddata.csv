@@ -1,0 +1,216 @@
+sl_no,gender,ssc_p,ssc_b,hsc_p,hsc_b,Btech_cgpa,Branch,workexperience,etest_p,status,salary
+1,0,67,state,91,state,58,Computer scinece,No,55,Placed,270000
+2,0,79.33,Central,78.33,state,77.48,computer science specialization,Yes,86.5,Placed,200000
+3,0,65,Central,68,Central,64,information technology,No,75,Placed,250000
+4,0,56,Central,52,Central,52,computer science specialization,No,66,Not Placed,
+5,0,85.8,Central,73.6,Central,73.3,information technology,No,96.8,Placed,425000
+6,0,55,state,49.8,state,67.25,Computer scinece,Yes,55,Not Placed,
+7,1,46,state,49.2,state,79,information technology,No,74.28,Not Placed,
+8,0,82,Central,64,Central,66,Computer scinece,Yes,67,Placed,252000
+9,0,73,Central,79,Central,72,information technology,No,91.34,Placed,231000
+10,0,58,Central,70,Central,61,Computer scinece,No,54,Not Placed,
+11,0,58,Central,61,Central,60,information technology,Yes,62,Placed,260000
+12,0,69.6,Central,68.4,Central,78.3,information technology,Yes,60,Placed,250000
+13,1,47,Central,55,state,65,information technology,No,62,Not Placed,
+14,1,77,Central,87,Central,59,information technology,No,68,Placed,218000
+15,0,62,Central,47,Central,50,information technology,No,76,Not Placed,
+16,1,65,Central,75,Central,69,information technology,Yes,72,Placed,200000
+17,0,63,Central,66.2,Central,65.6,Computer scinece,Yes,60,Placed,300000
+18,1,55,Central,67,Central,64,Computer scinece,No,60,Not Placed,
+19,1,63,Central,66,Central,64,information technology,No,68,Not Placed,
+20,0,60,state,67,state,70,Computer scinece,Yes,50.48,Placed,236000
+21,0,62,state,65,state,66,information technology,No,50,Placed,265000
+22,1,79,state,76,state,85,information technology,No,95,Placed,393000
+23,1,69.8,state,60.8,state,72.23,computer science specialization,No,55.53,Placed,360000
+24,1,77.4,state,60,state,64.74,computer science specialization,Yes,92,Placed,300000
+25,0,76.5,state,97.7,state,78.86,computer science specialization,No,97.4,Placed,360000
+26,1,52.58,state,54.6,Central,50.2,information technology,Yes,76,Not Placed,
+27,0,71,state,79,state,66,information technology,Yes,94,Placed,240000
+28,0,63,state,67,state,66,information technology,No,68,Placed,265000
+29,0,76.76,state,76.5,state,67.5,information technology,Yes,73.35,Placed,350000
+30,0,62,Central,67,Central,58,Computer scinece,No,77,Not Placed,
+31,1,64,Central,73.5,Central,73,information technology,No,52,Placed,250000
+32,1,67,Central,53,Central,65,computer science specialization,No,64,Not Placed,
+33,1,61,Central,81,Central,66.4,Computer scinece,No,50.89,Placed,278000
+34,1,87,state,65,state,81,information technology,Yes,88,Placed,260000
+35,0,62,state,51,state,52,Electronics and Communication Engineering,No,68.44,Not Placed,
+36,1,69,Central,78,Central,72,information technology,No,71,Placed,300000
+37,0,51,Central,44,Central,57,information technology,No,64,Not Placed,
+38,1,79,Central,76,Central,65.6,Computer scinece,No,58,Placed,320000
+39,1,73,state,58,state,66,information technology,No,53.7,Placed,240000
+40,0,81,state,68,state,64,computer science specialization,No,93,Placed,411000
+41,1,78,Central,77,state,80,information technology,No,60,Placed,287000
+42,1,74,state,63.16,state,65,information technology,Yes,65,Not Placed,
+43,0,49,state,39,Central,65,Electronics and Communication Engineering,No,63,Not Placed,
+44,0,87,state,87,state,68,information technology,No,95,Placed,300000
+45,1,77,state,73,state,81,information technology,Yes,89,Placed,200000
+46,1,76,Central,64,Central,72,computer science specialization,No,58,Not Placed,
+47,1,70.89,state,71.98,state,65.6,information technology,No,68,Not Placed,
+48,0,63,Central,60,Central,57,information technology,Yes,78,Placed,204000
+49,0,63,state,62,state,68,information technology,No,64,Placed,250000
+50,1,50,state,37,state,52,Electronics and Communication Engineering,No,65,Not Placed,
+51,1,75.2,Central,73.2,Central,68.4,information technology,No,65,Placed,200000
+52,0,54.4,Central,61.12,Central,56.2,information technology,No,67,Not Placed,
+53,1,40.89,state,45.83,state,53,information technology,No,71.2,Not Placed,
+54,0,80,state,70,state,72,computer science specialization,No,87,Placed,450000
+55,1,74,Central,60,state,69,information technology,No,78,Placed,216000
+56,0,60.4,Central,66.6,state,65,information technology,No,71,Placed,220000
+57,0,63,state,71.4,state,61.4,information technology,No,68,Placed,240000
+58,0,68,Central,76,Central,74,information technology,No,80,Placed,360000
+59,0,74,Central,62,state,68,information technology,No,74,Placed,268000
+60,0,52.6,Central,65.58,state,72.11,computer science specialization,No,57.6,Placed,265000
+61,0,74,Central,70,Central,72,information technology,Yes,60,Placed,260000
+62,0,84.2,Central,73.4,Central,66.89,information technology,No,61.6,Placed,300000
+63,1,86.5,state,64.2,state,67.4,computer science specialization,No,59,Placed,240000
+64,0,61,state,70,state,64,information technology,No,68.5,Not Placed,
+65,0,80,state,73,state,75,information technology,No,61,Placed,240000
+66,0,54,state,47,state,57,information technology,No,89.69,Not Placed,
+67,0,83,state,74,state,66,information technology,No,68.92,Placed,275000
+68,0,80.92,state,78.5,state,67,information technology,No,68.71,Placed,275000
+69,1,69.7,Central,47,Central,72.7,computer science specialization,No,79,Not Placed,
+70,0,73,Central,73,Central,66,computer science specialization,Yes,70,Placed,275000
+71,0,82,state,61,state,62,computer science specialization,No,89,Placed,360000
+72,0,75,state,70.29,state,71,information technology,No,95,Placed,240000
+73,0,84.86,state,67,state,78,information technology,No,95.5,Placed,240000
+74,0,64.6,Central,83.83,state,71.72,information technology,No,86,Placed,218000
+75,0,56.6,Central,64.8,Central,70.2,information technology,No,84.27,Placed,336000
+76,1,59,Central,62,state,77.5,information technology,No,74,Not Placed,
+77,1,66.5,state,70.4,Central,71.93,information technology,No,61,Placed,230000
+78,0,64,state,80,state,65,computer science specialization,Yes,69,Placed,500000
+79,0,84,state,90.9,state,64.5,computer science specialization,No,86.04,Placed,270000
+80,1,69,Central,62,Central,66,computer science specialization,No,75,Not Placed,
+81,1,69,state,62,state,69,information technology,Yes,67,Placed,240000
+82,0,81.7,state,63,state,67,information technology,Yes,86,Placed,300000
+83,0,63,Central,67,Central,74,information technology,No,82,Not Placed,
+84,0,84,state,79,state,68,computer science specialization,Yes,84,Placed,300000
+85,0,70,Central,63,state,70,computer science specialization,Yes,55,Placed,300000
+86,1,83.84,state,89.83,state,77.2,information technology,Yes,78.74,Placed,400000
+87,0,62,state,63,state,64,information technology,No,67,Placed,220000
+88,0,59.6,Central,51,Central,60,Electronics and Communication Engineering,No,75,Not Placed,
+89,1,66,Central,62,Central,73,information technology,No,58,Placed,210000
+90,1,84,state,75,state,69,computer science specialization,Yes,62,Placed,210000
+91,1,85,state,90,state,82,information technology,No,92,Placed,300000
+92,0,52,Central,57,Central,50.8,information technology,No,67,Not Placed,
+93,1,60.23,Central,69,Central,66,information technology,No,72,Placed,230000
+94,0,52,Central,62,Central,54,information technology,No,72,Not Placed,
+95,0,58,Central,62,Central,64,information technology,No,53.88,Placed,260000
+96,0,73,Central,78,state,65,information technology,Yes,95.46,Placed,420000
+97,1,76,Central,70,Central,76,information technology,Yes,66,Placed,300000
+98,1,70.5,Central,62.5,state,61,information technology,No,93.91,Not Placed,
+99,1,69,Central,73,Central,65,information technology,No,70,Placed,220000
+100,0,54,Central,82,state,63,computer science specialization,No,50,Not Placed,
+101,1,45,state,57,state,58,information technology,Yes,56.39,Not Placed,
+102,0,63,Central,72,Central,68,information technology,No,78,Placed,380000
+103,1,77,state,61,state,68,information technology,Yes,57.5,Placed,300000
+104,0,73,Central,78,Central,73,computer science specialization,Yes,85,Placed,240000
+105,0,69,Central,63,state,65,information technology,Yes,55,Placed,360000
+106,0,59,Central,64,state,58,computer science specialization,No,85,Not Placed,
+107,0,61.08,state,50,state,54,computer science specialization,No,71,Not Placed,
+108,0,82,state,90,state,83,information technology,No,80,Placed,200000
+109,0,61,Central,82,Central,69,information technology,No,84,Placed,300000
+110,0,52,Central,63,state,65,computer science specialization,Yes,86,Not Placed,
+111,1,69.5,Central,70,Central,72,computer science specialization,No,57.2,Placed,250000
+112,0,51,state,54,state,61,computer science specialization,No,60,Not Placed,
+113,0,58,state,61,state,61,information technology,No,58,Placed,250000
+114,1,73.96,state,79,state,67,information technology,No,72.15,Placed,280000
+115,0,65,Central,68,state,69,information technology,No,53.7,Placed,250000
+116,1,73,state,63,state,66,information technology,No,89,Placed,216000
+117,0,68.2,Central,72.8,Central,66.6,information technology,Yes,96,Placed,300000
+118,0,77,state,75,state,73,computer science specialization,No,80,Placed,240000
+119,0,76,Central,80,Central,78,computer science specialization,Yes,97,Placed,276000
+120,0,60.8,Central,68.4,Central,64.6,information technology,Yes,82.66,Placed,940000
+121,0,58,state,40,state,59,information technology,No,73,Not Placed,
+122,1,64,Central,67,state,69.6,computer science specialization,Yes,55.67,Placed,250000
+123,1,66.5,Central,66.8,Central,69.3,information technology,Yes,80.4,Placed,236000
+124,0,74,state,59,state,73,information technology,Yes,60,Placed,240000
+125,0,67,Central,71,Central,64.33,Electronics and Communication Engineering,Yes,64,Placed,250000
+126,1,84,Central,73,Central,73,information technology,No,75,Placed,350000
+127,1,79,state,61,state,75.5,computer science specialization,Yes,70,Placed,210000
+128,1,72,state,60,state,69,information technology,No,55.5,Placed,250000
+129,0,80.4,Central,73.4,Central,77.72,computer science specialization,Yes,81.2,Placed,400000
+130,0,76.7,Central,89.7,state,66,information technology,Yes,90,Placed,250000
+131,0,62,Central,65,state,60,information technology,No,84,Not Placed,
+132,1,74.9,state,57,state,62,Electronics and Communication Engineering,Yes,80,Placed,360000
+133,0,67,state,68,state,64,information technology,Yes,74.4,Placed,300000
+134,0,73,Central,64,state,77,information technology,Yes,65,Placed,250000
+135,1,77.44,Central,92,state,72,information technology,Yes,94,Placed,250000
+136,1,72,Central,56,state,69,Computer scinece,No,55.6,Placed,200000
+137,1,47,Central,59,Central,64,information technology,No,78,Not Placed,
+138,0,67,state,63,Central,72,information technology,No,56,Placed,225000
+139,1,82,state,64,state,73,computer science specialization,Yes,96,Placed,250000
+140,0,77,Central,70,Central,59,information technology,Yes,58,Placed,220000
+141,0,65,Central,64.8,state,69.5,information technology,Yes,56,Placed,265000
+142,0,66,Central,64,Central,60,information technology,No,60,Not Placed,
+143,0,85,Central,60,state,73.43,computer science specialization,Yes,60,Placed,260000
+144,0,77.67,state,64.89,state,70.67,Computer scinece,No,89,Placed,300000
+145,0,52,state,50,state,61,information technology,No,60,Not Placed,
+146,0,89.4,state,65.66,state,71.25,computer science specialization,No,72,Placed,400000
+147,0,62,Central,63,state,66,information technology,No,85,Placed,233000
+148,0,70,Central,74,Central,65,information technology,No,83,Placed,300000
+149,1,77,Central,86,Central,56,Computer scinece,No,57,Placed,240000
+150,0,44,Central,58,Central,55,information technology,Yes,64.25,Not Placed,
+151,0,71,Central,58.66,Central,58,computer science specialization,Yes,56,Placed,690000
+152,0,65,Central,65,Central,75,information technology,No,83,Placed,270000
+153,1,75.4,state,60.5,Central,84,Computer scinece,No,98,Placed,240000
+154,0,49,state,59,state,65,computer science specialization,Yes,86,Placed,340000
+155,0,53,Central,63,state,60,Computer scinece,Yes,70,Placed,250000
+156,0,51.57,state,74.66,state,59.9,information technology,Yes,56.15,Not Placed,
+157,0,84.2,Central,69.4,Central,65,computer science specialization,Yes,80,Placed,255000
+158,0,66.5,Central,62.5,Central,60.9,Computer scinece,No,93.4,Placed,300000
+159,0,67,state,63,state,64,computer science specialization,No,60,Not Placed,
+160,0,52,Central,49,state,58,information technology,No,62,Not Placed,
+161,0,87,Central,74,Central,65,Computer scinece,Yes,75,Placed,300000
+162,0,55.6,state,51,state,57.5,information technology,No,57.63,Not Placed,
+163,0,74.2,Central,87.6,state,77.25,information technology,Yes,75.2,Placed,285000
+164,0,63,state,67,state,64,computer science specialization,No,75,Placed,500000
+165,1,67.16,Central,72.5,Central,63.35,information technology,No,53.04,Placed,250000
+166,1,63.3,Central,78.33,state,74,information technology,No,80,Not Placed,
+167,0,62,state,62,state,60,information technology,Yes,63,Placed,240000
+168,0,67.9,state,62,state,67,computer science specialization,Yes,58.1,Not Placed,
+169,1,48,Central,51,Central,58,information technology,Yes,60,Not Placed,
+170,0,59.96,state,42.16,state,61.26,Computer scinece,No,54.48,Not Placed,
+171,1,63.4,state,67.2,state,60,information technology,No,58.06,Not Placed,
+172,0,80,state,80,state,72,information technology,Yes,63.79,Placed,290000
+173,0,73,state,58,state,56,information technology,No,84,Placed,300000
+174,1,52,state,52,state,55,computer science specialization,No,67,Not Placed,
+175,0,73.24,state,50.83,state,64.27,computer science specialization,Yes,64,Placed,500000
+176,0,63,state,62,state,65,computer science specialization,No,87.5,Not Placed,
+177,1,59,Central,60,state,56,information technology,No,55,Placed,220000
+178,1,73,Central,97,state,79,information technology,Yes,89,Placed,650000
+179,0,68,state,56,state,68,Computer scinece,No,73,Placed,350000
+180,1,77.8,Central,64,Central,64.2,computer science specialization,No,75.5,Not Placed,
+181,0,65,Central,71.5,state,62.8,information technology,Yes,57,Placed,265000
+182,0,62,Central,60.33,state,64.21,computer science specialization,No,63,Not Placed,
+183,0,52,state,65,state,57,Electronics and Communication Engineering,Yes,75,Not Placed,
+184,0,65,Central,77,Central,69,information technology,No,60,Placed,276000
+185,1,56.28,state,62.83,state,59.79,Computer scinece,No,60,Not Placed,
+186,1,88,Central,72,Central,78,Electronics and Communication Engineering,No,82,Placed,252000
+187,1,52,Central,64,Central,61,information technology,No,55,Not Placed,
+188,0,78.5,Central,65.5,Central,67,computer science specialization,Yes,95,Placed,280000
+189,0,61.8,state,47,state,54.38,information technology,No,57,Not Placed,
+190,1,54,Central,77.6,state,69.2,information technology,No,95.65,Not Placed,
+191,1,64,state,70.2,Central,61,information technology,No,50,Not Placed,
+192,0,67,state,61,Central,72,information technology,No,72,Placed,264000
+193,0,65.2,Central,61.4,Central,64.8,Computer scinece,Yes,93.4,Placed,270000
+194,1,60,Central,63,Central,56,Electronics and Communication Engineering,Yes,80,Placed,300000
+195,0,52,state,55,state,56.3,information technology,No,59,Not Placed,
+196,0,66,Central,76,Central,72,information technology,Yes,84,Placed,275000
+197,0,72,state,63,state,77.5,Computer scinece,Yes,78,Placed,250000
+198,1,83.96,state,53,state,91,computer science specialization,No,59.32,Placed,260000
+199,1,67,Central,70,Central,65,Electronics and Communication Engineering,No,88,Not Placed,
+200,0,69,state,65,state,57,Computer scinece,No,73,Placed,265000
+201,0,69,state,60,state,65,information technology,No,87.55,Placed,300000
+202,0,54.2,Central,63,state,58,information technology,No,79,Not Placed,
+203,0,70,Central,63,Central,66,Computer scinece,No,61.28,Placed,240000
+204,0,55.68,state,61.33,state,56.87,information technology,No,66,Placed,260000
+205,1,74,state,73,state,73,information technology,Yes,80,Placed,210000
+206,0,61,state,62,state,65,information technology,No,62,Placed,250000
+207,0,41,Central,42,Central,60,Computer scinece,No,97,Not Placed,
+208,0,83.33,Central,78,state,61,information technology,Yes,88.56,Placed,300000
+209,1,43,Central,60,state,65,information technology,No,92.66,Not Placed,
+210,0,62,Central,72,Central,65,information technology,No,67,Placed,216000
+211,0,80.6,state,82,state,77.6,Computer scinece,No,91,Placed,400000
+212,0,58,state,60,state,72,Computer scinece,No,74,Placed,275000
+213,0,67,state,67,state,73,information technology,Yes,59,Placed,295000
+214,1,74,state,66,state,58,information technology,No,70,Placed,204000
+215,0,62,Central,58,state,53,Computer scinece,No,89,Not Placed,
